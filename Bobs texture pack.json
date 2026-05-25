@@ -1,0 +1,86 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Profile 1",
+      "replace_ids": [
+        13110130082,
+        13110130082
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/alexa/Downloads/bbc_croquet---_07051025 - segment 1.mp3"
+    },
+    {
+      "name": "Profile 2",
+      "replace_ids": [
+        16537337310
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/alexa/Downloads/bbc_bang----ba_07043163 - segment 1.mp3"
+    },
+    {
+      "name": "Profile 3",
+      "replace_ids": [
+        16537449730
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/alexa/Downloads/bbc_bang----ba_07043163 - segment 1 - noise brushed - audiomulticut.mp3"
+    },
+    {
+      "name": "Profile 4",
+      "replace_ids": [
+        16530229616
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/alexa/Downloads/50986408-aa-with-reverb-meme-381632.mp3"
+    },
+    {
+      "name": "Profile 5",
+      "replace_ids": [
+        16530229541
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/alexa/Downloads/audiomass-output.mp3"
+    },
+    {
+      "name": "Profile 6",
+      "replace_ids": [
+        16530229695
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/alexa/Downloads/audiomass-output2.mp3"
+    },
+    {
+      "name": "Profile 7",
+      "replace_ids": [
+        17697682466
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/alexa/Downloads/894861_F-777---Prism.mp3"
+    },
+    {
+      "name": "Profile 8",
+      "replace_ids": [
+        17733314783
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/alexa/Downloads/mlp.mp3"
+    },
+    {
+      "name": "Profile 9",
+      "replace_ids": [
+        16810041280
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/alexa/Downloads/GOAAL.mp3"
+    }
+  ]
+}
